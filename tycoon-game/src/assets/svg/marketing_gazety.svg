@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.5.0, SVG Export Plug-In . SVG Version: 9.03 Build 54727)  -->
+<svg version="1.0" id="Warstwa_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
+<path fill="none" stroke="#000000" stroke-width="25" stroke-miterlimit="10" d="M892,801H276.71C184.08,801,109,725.92,109,633.29
+	V199c0-15.46,12.54-28,28-28h615.29C844.92,171,920,246.08,920,338.71V773C920,788.46,907.46,801,892,801z"/>
+<path d="M817.88,740.5H286.76c-63.1,0-114.26-51.16-114.26-114.26V259.12c0-13.6,11.02-24.62,24.62-24.62h531.12
+	c63.1,0,114.26,51.16,114.26,114.26v367.12C842.5,729.48,831.48,740.5,817.88,740.5z"/>
+<rect x="218.5" y="290" fill="#FFFFFF" width="578.5" height="81.5"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="25" stroke-miterlimit="10" x1="218" y1="466" x2="796.5" y2="465.5"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="25" stroke-miterlimit="10" x1="508" y1="472" x2="508" y2="683.5"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="25" stroke-miterlimit="10" x1="218.5" y1="551.5" x2="796.5" y2="552.5"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="25" stroke-miterlimit="10" x1="218.5" y1="632.5" x2="796.5" y2="628.5"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="25" stroke-miterlimit="10" x1="257" y1="689.5" x2="760" y2="689.5"/>
+<g>
+	<path d="M346.27,305.36v50.4h-9.58l-25.13-30.6v30.6h-11.52v-50.4h9.65l25.06,30.6v-30.6H346.27z"/>
+	<path d="M462.05,346.41v9.36h-39.03v-50.4h38.09v9.36h-26.5v10.94h23.4v9.07h-23.4v11.67H462.05z"/>
+	<path d="M611.59,305.36l-16.49,50.4h-12.53l-11.09-34.13l-11.45,34.13h-12.46l-16.56-50.4h12.1l11.38,35.43l11.88-35.43h10.8
+		l11.52,35.71l11.74-35.71H611.59z"/>
+	<path d="M678.91,350.8l3.96-8.79c4.25,3.1,10.58,5.26,16.63,5.26c6.91,0,9.72-2.3,9.72-5.4c0-9.43-29.31-2.95-29.31-21.67
+		c0-8.57,6.91-15.7,21.24-15.7c6.34,0,12.82,1.51,17.5,4.46l-3.6,8.86c-4.68-2.66-9.5-3.96-13.97-3.96c-6.91,0-9.58,2.59-9.58,5.76
+		c0,9.29,29.31,2.88,29.31,21.39c0,8.42-6.98,15.63-21.39,15.63C691.44,356.63,683.37,354.26,678.91,350.8z"/>
+</g>
+</svg>

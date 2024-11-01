@@ -1,0 +1,28 @@
+{"frames": {
+
+"office 2 show.png":
+{
+	"frame": {"x":1,"y":1,"w":1659,"h":888},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1659,"h":888},
+	"sourceSize": {"w":1659,"h":888}
+},
+"office 3 show.png":
+{
+	"frame": {"x":1,"y":891,"w":1629,"h":1063},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1629,"h":1063},
+	"sourceSize": {"w":1629,"h":1063}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "offices-two-and-three.png",
+	"format": "RGBA8888",
+	"size": {"w":1661,"h":1955},
+	"scale": "0.15",
+	"smartupdate": "$TexturePacker:SmartUpdate:fdecc0b5628e4ab6bfb924cc88dde1a7:9ec1926f8c4dc3bcecebbcef82e1eaf0:329d953c19810085e156e72db40c1920$"
+}
+}

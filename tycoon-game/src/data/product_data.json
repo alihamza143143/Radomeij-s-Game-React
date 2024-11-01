@@ -1,0 +1,1172 @@
+[
+    {
+        "name": "Quad-Step Model A1",
+        "releaseDate": {
+            "month": 2,
+            "year": 1970
+        },
+        "attributes": {
+            "performance": 0.99,
+            "price": 0.99,
+            "brand": 0.99,
+            "durability": 0.99
+        }
+    },
+    {
+        "name": "TexInstruments TMC 1795",
+        "releaseDate": {
+            "month": 1,
+            "year": 1971
+        },
+        "attributes": {
+            "performance": 0.2,
+            "price": 0.8,
+            "brand": 0.9,
+            "durability": 0.6
+        }
+    },
+    {
+        "name": "RockWall PPS-4",
+        "releaseDate": {
+            "month": 5,
+            "year": 1971
+        },
+        "attributes": {
+            "performance": 0.3,
+            "price": 0.7,
+            "brand": 0.7,
+            "durability": 0.5
+        }
+    },
+    {
+        "name": "SigNetics 8208",
+        "releaseDate": {
+            "month": 8,
+            "year": 1971
+        },
+        "attributes": {
+            "performance": 0.5,
+            "price": 0.6,
+            "brand": 0.6,
+            "durability": 0.6
+        }
+    },
+    {
+        "name": "FairGuard F8",
+        "releaseDate": {
+            "month": 9,
+            "year": 1971
+        },
+        "attributes": {
+            "performance": 0.6,
+            "price": 0.6,
+            "brand": 0.7,
+            "durability": 0.7
+        }
+    },
+    {
+        "name": "Mindel 4004",
+        "releaseDate": {
+            "month": 11,
+            "year": 1971
+        },
+        "attributes": {
+            "performance": 0.99,
+            "price": 0.99,
+            "brand": 0.99,
+            "durability": 0.99
+        }
+    },
+    {
+        "name": "TexInstruments TMS 1802NC",
+        "releaseDate": {
+            "month": 6,
+            "year": 1972
+        },
+        "attributes": {
+            "performance": 0.5,
+            "price": 0.7,
+            "brand": 0.9,
+            "durability": 0.6
+        }
+    },
+    {
+        "name": "NatSemi SC/MP",
+        "releaseDate": {
+            "month": 8,
+            "year": 1972
+        },
+        "attributes": {
+            "performance": 0.6,
+            "price": 0.7,
+            "brand": 0.8,
+            "durability": 0.7
+        }
+    },
+    {
+        "name": "Mindel 8008",
+        "releaseDate": {
+            "month": 4,
+            "year": 1972
+        },
+        "attributes": {
+            "performance": 0.99,
+            "price": 0.99,
+            "brand": 0.99,
+            "durability": 0.99
+        }
+    },
+    {
+        "name": "NatSemi IMP-16",
+        "releaseDate": {
+            "month": 3,
+            "year": 1973
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.4,
+            "brand": 0.8,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "Amichip S6800",
+        "releaseDate": {
+            "month": 4,
+            "year": 1973
+        },
+        "attributes": {
+            "performance": 0.6,
+            "price": 0.6,
+            "brand": 0.7,
+            "durability": 0.6
+        }
+    },
+    {
+        "name": "RCChip CDP1801",
+        "releaseDate": {
+            "month": 7,
+            "year": 1973
+        },
+        "attributes": {
+            "performance": 0.7,
+            "price": 0.5,
+            "brand": 0.7,
+            "durability": 0.6
+        }
+    },
+    {
+        "name": "Mindel 8080",
+        "releaseDate": {
+            "month": 4,
+            "year": 1974
+        },
+        "attributes": {
+            "performance": 0.99,
+            "price": 0.99,
+            "brand": 0.99,
+            "durability": 0.99
+        }
+    },
+    {
+        "name": "TexInstruments TMS 1000",
+        "releaseDate": {
+            "month": 5,
+            "year": 1974
+        },
+        "attributes": {
+            "performance": 0.2,
+            "price": 0.8,
+            "brand": 0.9,
+            "durability": 0.7
+        }
+    },
+    {
+        "name": "MOTech 6501",
+        "releaseDate": {
+            "month": 9,
+            "year": 1974
+        },
+        "attributes": {
+            "performance": 0.7,
+            "price": 0.5,
+            "brand": 0.8,
+            "durability": 0.7
+        }
+    },
+    {
+        "name": "Motorwave 6800",
+        "releaseDate": {
+            "month": 11,
+            "year": 1974
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.5,
+            "brand": 0.8,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "RCChip 1802",
+        "releaseDate": {
+            "month": 6,
+            "year": 1975
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.4,
+            "brand": 0.8,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "SigNetics 2650",
+        "releaseDate": {
+            "month": 8,
+            "year": 1975
+        },
+        "attributes": {
+            "performance": 0.6,
+            "price": 0.6,
+            "brand": 0.7,
+            "durability": 0.6
+        }
+    },
+    {
+        "name": "MOTech 6502",
+        "releaseDate": {
+            "month": 9,
+            "year": 1975
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.4,
+            "brand": 0.8,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "NatSemi SC/MP",
+        "releaseDate": {
+            "month": 11,
+            "year": 1975
+        },
+        "attributes": {
+            "performance": 0.6,
+            "price": 0.6,
+            "brand": 0.7,
+            "durability": 0.7
+        }
+    },
+    {
+        "name": "Mindel 8085",
+        "releaseDate": {
+            "month": 3,
+            "year": 1976
+        },
+        "attributes": {
+            "performance": 0.9,
+            "price": 0.9,
+            "brand": 0.9,
+            "durability": 0.9
+        }
+    },
+    {
+        "name": "Ziglog Z80",
+        "releaseDate": {
+            "month": 7,
+            "year": 1976
+        },
+        "attributes": {
+            "performance": 0.9,
+            "price": 0.9,
+            "brand": 0.9,
+            "durability": 0.9
+        }
+    },
+    {
+        "name": "TexInstruments TMS9900",
+        "releaseDate": {
+            "month": 6,
+            "year": 1976
+        },
+        "attributes": {
+            "performance": 0.7,
+            "price": 0.6,
+            "brand": 0.8,
+            "durability": 0.7
+        }
+    },
+    {
+        "name": "RCChip CDP1802",
+        "releaseDate": {
+            "month": 6,
+            "year": 1976
+        },
+        "attributes": {
+            "performance": 0.6,
+            "price": 0.7,
+            "brand": 0.7,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "FairGuard F9440",
+        "releaseDate": {
+            "month": 5,
+            "year": 1977
+        },
+        "attributes": {
+            "performance": 0.5,
+            "price": 0.8,
+            "brand": 0.6,
+            "durability": 0.6
+        }
+    },
+    {
+        "name": "SigNetics 2650",
+        "releaseDate": {
+            "month": 8,
+            "year": 1977
+        },
+        "attributes": {
+            "performance": 0.5,
+            "price": 0.8,
+            "brand": 0.6,
+            "durability": 0.6
+        }
+    },
+    {
+        "name": "Mindel 8086",
+        "releaseDate": {
+            "month": 6,
+            "year": 1978
+        },
+        "attributes": {
+            "performance": 0.9,
+            "price": 0.9,
+            "brand": 0.9,
+            "durability": 0.9
+        }
+    },
+    {
+        "name": "Motorwave 68010",
+        "releaseDate": {
+            "month": 2,
+            "year": 1980
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.6,
+            "brand": 0.8,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "NatSemi NS32016",
+        "releaseDate": {
+            "month": 3,
+            "year": 1980
+        },
+        "attributes": {
+            "performance": 0.7,
+            "price": 0.6,
+            "brand": 0.7,
+            "durability": 0.7
+        }
+    },
+    {
+        "name": "Mindel 80186",
+        "releaseDate": {
+            "month": 1,
+            "year": 1980
+        },
+        "attributes": {
+            "performance": 0.7,
+            "price": 0.6,
+            "brand": 0.9,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "Ziglog Z8001",
+        "releaseDate": {
+            "month": 3,
+            "year": 1980
+        },
+        "attributes": {
+            "performance": 0.6,
+            "price": 0.7,
+            "brand": 0.7,
+            "durability": 0.7
+        }
+    },
+    {
+        "name": "MOTech 6510",
+        "releaseDate": {
+            "month": 6,
+            "year": 1980
+        },
+        "attributes": {
+            "performance": 0.6,
+            "price": 0.8,
+            "brand": 0.8,
+            "durability": 0.7
+        }
+    },
+    {
+        "name": "AMD 9511",
+        "releaseDate": {
+            "month": 9,
+            "year": 1980
+        },
+        "attributes": {
+            "performance": 0.5,
+            "price": 0.6,
+            "brand": 0.7,
+            "durability": 0.7
+        }
+    },
+    {
+        "name": "Mindel 80286",
+        "releaseDate": {
+            "month": 2,
+            "year": 1982
+        },
+        "attributes": {
+            "performance": 0.7,
+            "price": 0.7,
+            "brand": 0.9,
+            "durability": 0.9
+        }
+    },
+    {
+        "name": "Mindel 80188",
+        "releaseDate": {
+            "month": 6,
+            "year": 1982
+        },
+        "attributes": {
+            "performance": 0.6,
+            "price": 0.7,
+            "brand": 0.9,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "Motorwave 68008",
+        "releaseDate": {
+            "month": 2,
+            "year": 1982
+        },
+        "attributes": {
+            "performance": 0.6,
+            "price": 0.7,
+            "brand": 0.8,
+            "durability": 0.7
+        }
+    },
+    {
+        "name": "WestDesign 65C02",
+        "releaseDate": {
+            "month": 3,
+            "year": 1982
+        },
+        "attributes": {
+            "performance": 0.4,
+            "price": 0.8,
+            "brand": 0.7,
+            "durability": 0.7
+        }
+    },
+    {
+        "name": "TexInstruments TMS9900",
+        "releaseDate": {
+            "month": 6,
+            "year": 1982
+        },
+        "attributes": {
+            "performance": 0.6,
+            "price": 0.7,
+            "brand": 0.7,
+            "durability": 0.7
+        }
+    },
+    {
+        "name": "Mindel 80486",
+        "releaseDate": {
+            "month": 4,
+            "year": 1989
+        },
+        "attributes": {
+            "performance": 0.9,
+            "price": 0.8,
+            "brand": 1.0,
+            "durability": 1.0
+        }
+    },
+    {
+        "name": "Mindel i860",
+        "releaseDate": {
+            "month": 3,
+            "year": 1989
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.5,
+            "brand": 0.9,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "Mindel 80386",
+        "releaseDate": {
+            "month": 10,
+            "year": 1985
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.8,
+            "brand": 1.0,
+            "durability": 0.9
+        }
+    },
+    {
+        "name": "Weitex 1064",
+        "releaseDate": {
+            "month": 2,
+            "year": 1986
+        },
+        "attributes": {
+            "performance": 0.7,
+            "price": 0.6,
+            "brand": 0.6,
+            "durability": 0.7
+        }
+    },
+    {
+        "name": "Mindel i960",
+        "releaseDate": {
+            "month": 4,
+            "year": 1986
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.5,
+            "brand": 0.9,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "Mindel 80387",
+        "releaseDate": {
+            "month": 10,
+            "year": 1987
+        },
+        "attributes": {
+            "performance": 0.7,
+            "price": 0.6,
+            "brand": 0.9,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "TransCompute T800",
+        "releaseDate": {
+            "month": 11,
+            "year": 1987
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.5,
+            "brand": 0.7,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "Mindel 80386SX",
+        "releaseDate": {
+            "month": 6,
+            "year": 1988
+        },
+        "attributes": {
+            "performance": 0.6,
+            "price": 0.7,
+            "brand": 0.9,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "Mindel 80486DX",
+        "releaseDate": {
+            "month": 4,
+            "year": 1989
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.5,
+            "brand": 0.9,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "Mindel Core Duo",
+        "releaseDate": {
+            "month": 7,
+            "year": 2006
+        },
+        "attributes": {
+            "performance": 1.3,
+            "price": 1.1,
+            "brand": 1.1,
+            "durability": 1.2
+        }
+    },
+    {
+        "name": "ADMicro Phenomen II",
+        "releaseDate": {
+            "month": 1,
+            "year": 2009
+        },
+        "attributes": {
+            "performance": 1.3,
+            "price": 1.1,
+            "brand": 1.0,
+            "durability": 1.2
+        }
+    },
+    {
+        "name": "Mindel Core i5",
+        "releaseDate": {
+            "month": 9,
+            "year": 2009
+        },
+        "attributes": {
+            "performance": 1.4,
+            "price": 1.2,
+            "brand": 1.2,
+            "durability": 1.3
+        }
+    },
+    {
+        "name": "Mindel Core i7",
+        "releaseDate": {
+            "month": 11,
+            "year": 2008
+        },
+        "attributes": {
+            "performance": 1.4,
+            "price": 1.3,
+            "brand": 1.2,
+            "durability": 1.3
+        }
+    },
+    {
+        "name": "Mindel Core Quad",
+        "releaseDate": {
+            "month": 1,
+            "year": 2007
+        },
+        "attributes": {
+            "performance": 1.3,
+            "price": 1.1,
+            "brand": 1.1,
+            "durability": 1.2
+        }
+    },
+    {
+        "name": "ADMicro Ryzan 7",
+        "releaseDate": {
+            "month": 3,
+            "year": 2010
+        },
+        "attributes": {
+            "performance": 1.5,
+            "price": 1.3,
+            "brand": 1.2,
+            "durability": 1.3
+        }
+    },
+    {
+        "name": "Mindel Pentium",
+        "releaseDate": {
+            "month": 3,
+            "year": 1993
+        },
+        "attributes": {
+            "performance": 0.9,
+            "price": 0.8,
+            "brand": 1.0,
+            "durability": 1.0
+        }
+    },
+    {
+        "name": "Mindel Pentium II",
+        "releaseDate": {
+            "month": 5,
+            "year": 1997
+        },
+        "attributes": {
+            "performance": 0.9,
+            "price": 0.8,
+            "brand": 1.0,
+            "durability": 1.0
+        }
+    },
+    {
+        "name": "Mindel Pentium III",
+        "releaseDate": {
+            "month": 2,
+            "year": 1999
+        },
+        "attributes": {
+            "performance": 0.9,
+            "price": 0.9,
+            "brand": 1.0,
+            "durability": 1.0
+        }
+    },
+    {
+        "name": "Mindel Pentium III Zeno",
+        "releaseDate": {
+            "month": 10,
+            "year": 1999
+        },
+        "attributes": {
+            "performance": 0.9,
+            "price": 0.9,
+            "brand": 1.0,
+            "durability": 1.0
+        }
+    },
+    {
+        "name": "Mindel Pentium 4",
+        "releaseDate": {
+            "month": 11,
+            "year": 2000
+        },
+        "attributes": {
+            "performance": 1.0,
+            "price": 0.9,
+            "brand": 1.0,
+            "durability": 1.0
+        }
+    },
+    {
+        "name": "Mindel Pentium 4 Extra",
+        "releaseDate": {
+            "month": 9,
+            "year": 2003
+        },
+        "attributes": {
+            "performance": 1.0,
+            "price": 1.0,
+            "brand": 1.1,
+            "durability": 1.1
+        }
+    },
+    {
+        "name": "Mindel Pentium D",
+        "releaseDate": {
+            "month": 5,
+            "year": 2005
+        },
+        "attributes": {
+            "performance": 1.2,
+            "price": 1.0,
+            "brand": 1.1,
+            "durability": 1.1
+        }
+    },
+    {
+        "name": "Mindel Pentium M",
+        "releaseDate": {
+            "month": 3,
+            "year": 2003
+        },
+        "attributes": {
+            "performance": 1.1,
+            "price": 0.9,
+            "brand": 1.0,
+            "durability": 1.0
+        }
+    },
+    {
+        "name": "Mindel Core i3",
+        "releaseDate": {
+            "month": 1,
+            "year": 2010
+        },
+        "attributes": {
+            "performance": 1.4,
+            "price": 1.2,
+            "brand": 1.1,
+            "durability": 1.3
+        }
+    },
+    {
+        "name": "Mindel Core Duo",
+        "releaseDate": {
+            "month": 7,
+            "year": 2006
+        },
+        "attributes": {
+            "performance": 1.3,
+            "price": 1.1,
+            "brand": 1.1,
+            "durability": 1.2
+        }
+    },
+    {
+        "name": "Mindel Core i7",
+        "releaseDate": {
+            "month": 11,
+            "year": 2008
+        },
+        "attributes": {
+            "performance": 1.4,
+            "price": 1.3,
+            "brand": 1.2,
+            "durability": 1.3
+        }
+    },
+    {
+        "name": "ADMicro FX",
+        "releaseDate": {
+            "month": 10,
+            "year": 2011
+        },
+        "attributes": {
+            "performance": 1.5,
+            "price": 1.3,
+            "brand": 1.2,
+            "durability": 1.4
+        }
+    },
+    {
+        "name": "Mindel Celery",
+        "releaseDate": {
+            "month": 4,
+            "year": 1998
+        },
+        "attributes": {
+            "performance": 0.7,
+            "price": 0.7,
+            "brand": 0.8,
+            "durability": 0.9
+        }
+    },
+    {
+        "name": "Mindel 80386SL",
+        "releaseDate": {
+            "month": 10,
+            "year": 1988
+        },
+        "attributes": {
+            "performance": 0.7,
+            "price": 0.6,
+            "brand": 0.9,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "Mindel 80386DX",
+        "releaseDate": {
+            "month": 6,
+            "year": 1986
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.5,
+            "brand": 0.9,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "Motorwave 68881",
+        "releaseDate": {
+            "month": 6,
+            "year": 1986
+        },
+        "attributes": {
+            "performance": 0.7,
+            "price": 0.6,
+            "brand": 0.8,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "MIPS R2000",
+        "releaseDate": {
+            "month": 1,
+            "year": 1986
+        },
+        "attributes": {
+            "performance": 0.7,
+            "price": 0.6,
+            "brand": 0.7,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "NatSemi NS32532",
+        "releaseDate": {
+            "month": 3,
+            "year": 1986
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.5,
+            "brand": 0.7,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "Motorwave 68030",
+        "releaseDate": {
+            "month": 8,
+            "year": 1987
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.5,
+            "brand": 0.8,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "Mindel 80486SX",
+        "releaseDate": {
+            "month": 5,
+            "year": 1990
+        },
+        "attributes": {
+            "performance": 0.7,
+            "price": 0.6,
+            "brand": 0.9,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "Motorwave 68040",
+        "releaseDate": {
+            "month": 2,
+            "year": 1990
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.5,
+            "brand": 0.8,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "ADMicro 386",
+        "releaseDate": {
+            "month": 3,
+            "year": 1989
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.4,
+            "brand": 0.8,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "FlareSPARC Station 1",
+        "releaseDate": {
+            "month": 8,
+            "year": 1989
+        },
+        "attributes": {
+            "performance": 0.7,
+            "price": 0.6,
+            "brand": 0.8,
+            "durability": 0.8
+        }
+    },
+    {
+        "name": "Mindel Core Quad",
+        "releaseDate": {
+            "month": 1,
+            "year": 2007
+        },
+        "attributes": {
+            "performance": 1.3,
+            "price": 1.1,
+            "brand": 1.1,
+            "durability": 1.2
+        }
+    },
+    {
+        "name": "Mindel Core Duo",
+        "releaseDate": {
+            "month": 7,
+            "year": 2006
+        },
+        "attributes": {
+            "performance": 1.3,
+            "price": 1.1,
+            "brand": 1.1,
+            "durability": 1.2
+        }
+    },
+    {
+        "name": "ADMicro Semper",
+        "releaseDate": {
+            "month": 7,
+            "year": 2004
+        },
+        "attributes": {
+            "performance": 1.1,
+            "price": 0.9,
+            "brand": 0.9,
+            "durability": 1.0
+        }
+    },
+    {
+        "name": "ADMicro Operator",
+        "releaseDate": {
+            "month": 4,
+            "year": 2005
+        },
+        "attributes": {
+            "performance": 1.2,
+            "price": 1.0,
+            "brand": 1.0,
+            "durability": 1.1
+        }
+    },
+    {
+        "name": "Mindel Zeno 5100",
+        "releaseDate": {
+            "month": 6,
+            "year": 2006
+        },
+        "attributes": {
+            "performance": 1.3,
+            "price": 1.1,
+            "brand": 1.1,
+            "durability": 1.2
+        }
+    },
+    {
+        "name": "Mindel Zeno 7100",
+        "releaseDate": {
+            "month": 7,
+            "year": 2006
+        },
+        "attributes": {
+            "performance": 1.3,
+            "price": 1.2,
+            "brand": 1.2,
+            "durability": 1.3
+        }
+    },
+    {
+        "name": "Mindel Core i5",
+        "releaseDate": {
+            "month": 9,
+            "year": 2009
+        },
+        "attributes": {
+            "performance": 1.4,
+            "price": 1.2,
+            "brand": 1.2,
+            "durability": 1.3
+        }
+    },
+    {
+        "name": "ADMicro K5",
+        "releaseDate": {
+            "month": 3,
+            "year": 1996
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.7,
+            "brand": 0.8,
+            "durability": 0.9
+        }
+    },
+    {
+        "name": "ADMicro Athlet",
+        "releaseDate": {
+            "month": 6,
+            "year": 1999
+        },
+        "attributes": {
+            "performance": 1.0,
+            "price": 0.8,
+            "brand": 0.9,
+            "durability": 1.0
+        }
+    },
+    {
+        "name": "ADMicro Dura",
+        "releaseDate": {
+            "month": 6,
+            "year": 2000
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.8,
+            "brand": 0.9,
+            "durability": 1.0
+        }
+    },
+    {
+        "name": "ADMicro Athlet XP",
+        "releaseDate": {
+            "month": 10,
+            "year": 2001
+        },
+        "attributes": {
+            "performance": 1.1,
+            "price": 0.9,
+            "brand": 0.9,
+            "durability": 1.0
+        }
+    },
+    {
+        "name": "ADMicro Athlet 64",
+        "releaseDate": {
+            "month": 9,
+            "year": 2003
+        },
+        "attributes": {
+            "performance": 1.2,
+            "price": 1.0,
+            "brand": 1.0,
+            "durability": 1.1
+        }
+    },
+    {
+        "name": "ADMicro Athlet 64x2",
+        "releaseDate": {
+            "month": 5,
+            "year": 2005
+        },
+        "attributes": {
+            "performance": 1.2,
+            "price": 1.1,
+            "brand": 1.0,
+            "durability": 1.1
+        }
+    },
+    {
+        "name": "Mindel 80386DX",
+        "releaseDate": {
+            "month": 6,
+            "year": 1986
+        },
+        "attributes": {
+            "performance": 0.8,
+            "price": 0.5,
+            "brand": 0.9,
+            "durability": 0.8
+        }
+    }
+]

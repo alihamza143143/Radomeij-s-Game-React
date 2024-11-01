@@ -1,0 +1,20 @@
+{"frames": {
+
+"room_house.png":
+{
+	"frame": {"x":1,"y":1,"w":1682,"h":1110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1682,"h":1110},
+	"sourceSize": {"w":1682,"h":1110}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "office-tutorial.png",
+	"format": "RGBA8888",
+	"size": {"w":1684,"h":1112},
+	"scale": "0.6",
+	"smartupdate": "$TexturePacker:SmartUpdate:89651a4fa509ebf76b2f304c5389b4d1:cede01238ff6bdbbd86cba4c47206bf1:4efd83b0394b7f12bce2f0211d108a0d$"
+}
+}

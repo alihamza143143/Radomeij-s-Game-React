@@ -1,0 +1,226 @@
+[
+    {
+        "class": "generalPublic",
+        "initialPopulation": 10000,
+        "attributes": {
+            "performance": 0.2,
+            "price": 0.4,
+            "brand": 0.2,
+            "durability": 0.2
+        },
+        "targetPopulations": {
+            "1970": 10000,
+            "1975": 50000,
+            "1980": 200000,
+            "1985": 1000000,
+            "1990": 5000000,
+            "1995": 20000000,
+            "2000": 50000000,
+            "2005": 200000000,
+            "2010": 1000000000
+        }
+    },
+    {
+        "class": "brandFan",
+        "initialPopulation": 5000,
+        "attributes": {
+            "performance": 0.1,
+            "price": 0.1,
+            "brand": 0.7,
+            "durability": 0.1
+        },
+        "targetPopulations": {
+            "1970": 5000,
+            "1975": 25000,
+            "1980": 100000,
+            "1985": 500000,
+            "1990": 2500000,
+            "1995": 10000000,
+            "2000": 25000000,
+            "2005": 100000000,
+            "2010": 500000000
+        }
+    },
+    {
+        "class": "performanceManiac",
+        "initialPopulation": 2000,
+        "attributes": {
+            "performance": 0.7,
+            "price": 0.1,
+            "brand": 0.1,
+            "durability": 0.1
+        },
+        "targetPopulations": {
+            "1970": 2000,
+            "1975": 10000,
+            "1980": 50000,
+            "1985": 200000,
+            "1990": 1000000,
+            "1995": 4000000,
+            "2000": 10000000,
+            "2005": 40000000,
+            "2010": 200000000
+        }
+    },
+    {
+        "class": "specialInstitution",
+        "initialPopulation": 1000,
+        "attributes": {
+            "performance": 0.1,
+            "price": 0.1,
+            "brand": 0.1,
+            "durability": 0.7
+        },
+        "targetPopulations": {
+            "1970": 1000,
+            "1975": 5000,
+            "1980": 20000,
+            "1985": 100000,
+            "1990": 500000,
+            "1995": 2000000,
+            "2000": 5000000,
+            "2005": 20000000,
+            "2010": 100000000
+        }
+    },
+    {
+        "class": "industry",
+        "initialPopulation": 1500,
+        "attributes": {
+            "performance": 0.3,
+            "price": 0.1,
+            "brand": 0.1,
+            "durability": 0.5
+        },
+        "targetPopulations": {
+            "1970": 1500,
+            "1975": 7500,
+            "1980": 30000,
+            "1985": 150000,
+            "1990": 750000,
+            "1995": 3000000,
+            "2000": 7500000,
+            "2005": 30000000,
+            "2010": 150000000
+        }
+    },
+    {
+        "class": "priceSensitive",
+        "initialPopulation": 8000,
+        "attributes": {
+            "performance": 0.1,
+            "price": 0.7,
+            "brand": 0.1,
+            "durability": 0.1
+        },
+        "targetPopulations": {
+            "1970": 8000,
+            "1975": 40000,
+            "1980": 160000,
+            "1985": 800000,
+            "1990": 4000000,
+            "1995": 16000000,
+            "2000": 40000000,
+            "2005": 160000000,
+            "2010": 800000000
+        }
+    },
+    {
+        "class": "smallBusiness",
+        "initialPopulation": 500,
+        "attributes": {
+            "performance": 0.3,
+            "price": 0.4,
+            "brand": 0.1,
+            "durability": 0.2
+        },
+        "targetPopulations": {
+            "1975": 500,
+            "1980": 2500,
+            "1985": 10000,
+            "1990": 50000,
+            "1995": 200000,
+            "2000": 500000,
+            "2005": 2000000,
+            "2010": 10000000
+        }
+    },
+    {
+        "class": "governmentAgency",
+        "initialPopulation": 300,
+        "attributes": {
+            "performance": 0.2,
+            "price": 0.1,
+            "brand": 0.1,
+            "durability": 0.6
+        },
+        "targetPopulations": {
+            "1980": 300,
+            "1985": 1500,
+            "1990": 6000,
+            "1995": 30000,
+            "2000": 120000,
+            "2005": 300000,
+            "2010": 1500000
+        }
+    },
+    {
+        "class": "techEnthusiast",
+        "initialPopulation": 1000,
+        "attributes": {
+            "performance": 0.5,
+            "price": 0.2,
+            "brand": 0.2,
+            "durability": 0.1
+        },
+        "targetPopulations": {
+            "1970": 1000,
+            "1975": 5000,
+            "1980": 20000,
+            "1985": 100000,
+            "1990": 500000,
+            "1995": 2000000,
+            "2000": 5000000,
+            "2005": 20000000,
+            "2010": 100000000
+        }
+    },
+    {
+        "class": "educationalInstitution",
+        "initialPopulation": 700,
+        "attributes": {
+            "performance": 0.2,
+            "price": 0.3,
+            "brand": 0.2,
+            "durability": 0.3
+        },
+        "targetPopulations": {
+            "1975": 700,
+            "1980": 3500,
+            "1985": 14000,
+            "1990": 70000,
+            "1995": 280000,
+            "2000": 700000,
+            "2005": 2800000,
+            "2010": 14000000
+        }
+    },
+    {
+        "class": "largeEnterprise",
+        "initialPopulation": 600,
+        "attributes": {
+            "performance": 0.4,
+            "price": 0.2,
+            "brand": 0.1,
+            "durability": 0.3
+        },
+        "targetPopulations": {
+            "1985": 600,
+            "1990": 3000,
+            "1995": 12000,
+            "2000": 60000,
+            "2005": 240000,
+            "2010": 1200000
+        }
+    }
+]

@@ -1,0 +1,21 @@
+{"frames": {
+
+"office_3.png":
+{
+	"frame": {"x":1,"y":1,"w":1954,"h":1275},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1954,"h":1275},
+	"sourceSize": {"w":1954,"h":1275}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "offices-two-and-three-1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "0.18",
+	"related_multi_packs": [ "offices-two-and-three-0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:8f5f9cee13be1d4e5af55d84ee24e1a9:9ec1926f8c4dc3bcecebbcef82e1eaf0:4bd8630d3cb4a499db66a5d997484fe9$"
+}
+}

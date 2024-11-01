@@ -1,0 +1,47 @@
+@import "@fontsource/montserrat/700.css";
+
+.btn-text-outline {
+    text-shadow: 1px 1px 2px white, -1px -1px 2px white, -1px 1px 2px white, 1px -1px 2px white;
+}
+
+.text-outline {
+    color: #083ac5; /* Dark Blue */
+    font-size: 24px;
+    font-weight: bold;
+   
+    text-shadow:
+    -1px -1px 0 #ffffff,
+     1px -1px 0 #ffffff,
+    -1px  1px 0 #ffffff,
+     1px  1px 0 #ffffff,
+    -2px -2px 0 #ffffff,
+     2px -2px 0 #ffffff,
+    -2px  2px 0 #ffffff,
+     2px  2px 0 #ffffff;
+}
+
+.text1-outline {
+    color: #1F6F8B; /* Dark blue text color */
+    font-size: 6rem; /* Adjust size as needed */
+    font-weight: bold;
+    filter: url(#rounded-stroke); /* Apply the SVG filter */
+}
+
+
+* {
+    user-select: none; /* Disable text selection */
+    -webkit-user-select: none; /* Disable text selection in WebKit-based browsers */
+    -moz-user-select: none; /* Disable text selection in Firefox */
+    -ms-user-select: none; /* Disable text selection in old IE versions */
+}
+
+body {
+    -webkit-touch-callout: none; /* Disable the copy/paste menu on iOS */
+}
+
+  
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Warstwa_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d1d1b;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+        stroke-width: 45px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="95" y="140" width="842" height="623" rx="48.83" ry="48.83"/>
+  <rect class="cls-1" x="97.5" y="642" width="822.5" height="105"/>
+  <polygon class="cls-1" points="661 908 370 908 412 811 620 811 661 908"/>
+  <rect class="cls-1" x="323" y="903" width="386" height="68" rx="27.92" ry="27.92"/>
+  <path class="cls-1" d="M272.14,509.99l-4.23-4.23c-8.6-8.6-8.6-22.55,0-31.15l154.35-154.35,117.19,117.19,95.17-95.17,35.38,35.38-130.55,130.54-117.19-117.19-118.97,118.97c-8.6,8.6-22.55,8.6-31.15,0Z"/>
+  <path class="cls-1" d="M726.75,268.6l-141.08,37.8c-9.56,2.56-12.76,14.5-5.76,21.5l103.28,103.28c6.99,6.99,18.94,3.79,21.5-5.76l37.8-141.08c2.56-9.56-6.18-18.3-15.74-15.74Z"/>
+</svg>

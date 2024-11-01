@@ -1,0 +1,22 @@
+{
+    "offices": [
+        {
+            "id": 1,
+            "name": "Home Office",
+            "rentCost": 500,
+            "maxEmployees": 1
+        },
+        {
+            "id": 2,
+            "name": "Small Office",
+            "rentCost": 2000,
+            "maxEmployees": 6
+        },
+        {
+            "id": 3,
+            "name": "Large Office",
+            "rentCost": 8000,
+            "maxEmployees": 24
+        }
+    ]
+}
