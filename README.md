@@ -97,4 +97,4 @@ yarn build
 This will create an optimized build in the build/ folder.
 
 License
-This project is open-source. You can freely use and modify it.
+This project is not available for commercial use. 
